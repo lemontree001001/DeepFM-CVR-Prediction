@@ -1,0 +1,4 @@
+pandas
+torch>=2.0.0
+scikit-learn
+deepctr-torch==0.3.0
